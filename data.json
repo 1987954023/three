@@ -1,0 +1,79 @@
+[{
+    "title": "畅销尖货",
+    "topImg": "https://res8.vmallres.com/shopdc/pic/60b3b816-48ce-4435-9d7f-4e1b211e19f5.png",
+    "buttomImg": [{
+        "id": 1,
+        "src": "https://www.vmall.com/product/10086715691479.html#10086823033810",
+        "img": "https://res9.vmallres.com/shopdc/pic/32e619f8-dded-4886-b6d9-f7650779b915.png",
+        "title": "HUAWEI P40 Pro",
+        "letter": "麒麟990 5G SoC芯片",
+        "free": "享3期免息",
+        "price": 5988
+    }, {
+        "id": 1,
+        "src": "https://www.vmall.com/product/10086715691479.html#10086823033810",
+        "img": "https://res9.vmallres.com/shopdc/pic/32e619f8-dded-4886-b6d9-f7650779b915.png",
+        "title": "HUAWEI P40 Pro",
+        "letter": "麒麟990 5G SoC芯片",
+        "free": "享3期免息",
+        "price": 5988
+    }, {
+        "id": 1,
+        "src": "https://www.vmall.com/product/10086715691479.html#10086823033810",
+        "img": "https://res9.vmallres.com/shopdc/pic/32e619f8-dded-4886-b6d9-f7650779b915.png",
+        "title": "HUAWEI P40 Pro",
+        "letter": "麒麟990 5G SoC芯片",
+        "free": "享3期免息",
+        "price": 5988
+    }, {
+        "id": 1,
+        "src": "https://www.vmall.com/product/10086715691479.html#10086823033810",
+        "img": "https://res9.vmallres.com/shopdc/pic/32e619f8-dded-4886-b6d9-f7650779b915.png",
+        "title": "HUAWEI P40 Pro",
+        "letter": "麒麟990 5G SoC芯片",
+        "free": "享3期免息",
+        "price": 5988
+    }]
+}, {
+    "title": "智慧出行",
+    "topImg": "https://res8.vmallres.com/shopdc/pic/60b3b816-48ce-4435-9d7f-4e1b211e19f5.png",
+    "leftImg": [{
+        "id": 1,
+        "title": "智慧出行",
+        "img": "https://res0.vmallres.com/shopdc/pic/cb9b255e-6a80-4b5d-b76e-04d81cea7268.png",
+        "src": ""
+    }],
+    "buttomImg": [{
+        "id": 1,
+        "src": "https://www.vmall.com/product/10086715691479.html#10086823033810",
+        "img": "https://res9.vmallres.com/shopdc/pic/32e619f8-dded-4886-b6d9-f7650779b915.png",
+        "title": "HUAWEI P40 Pro",
+        "letter": "麒麟990 5G SoC芯片",
+        "free": "享3期免息",
+        "price": 5988
+    }, {
+        "id": 1,
+        "src": "https://www.vmall.com/product/10086715691479.html#10086823033810",
+        "img": "https://res9.vmallres.com/shopdc/pic/32e619f8-dded-4886-b6d9-f7650779b915.png",
+        "title": "HUAWEI P40 Pro",
+        "letter": "麒麟990 5G SoC芯片",
+        "free": "享3期免息",
+        "price": 5988
+    }, {
+        "id": 1,
+        "src": "https://www.vmall.com/product/10086715691479.html#10086823033810",
+        "img": "https://res9.vmallres.com/shopdc/pic/32e619f8-dded-4886-b6d9-f7650779b915.png",
+        "title": "HUAWEI P40 Pro",
+        "letter": "麒麟990 5G SoC芯片",
+        "free": "享3期免息",
+        "price": 5988
+    }, {
+        "id": 1,
+        "src": "https://www.vmall.com/product/10086715691479.html#10086823033810",
+        "img": "https://res9.vmallres.com/shopdc/pic/32e619f8-dded-4886-b6d9-f7650779b915.png",
+        "title": "HUAWEI P40 Pro",
+        "letter": "麒麟990 5G SoC芯片",
+        "free": "享3期免息",
+        "price": 5988
+    }]
+}]
